@@ -25,9 +25,10 @@ a {
     text-decoration: none;
 }
 
-#links a:hover {
+a:hover {
     color: #777;
 }
+
 #links li {
     list-style: none;
 }
