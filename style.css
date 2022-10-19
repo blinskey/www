@@ -33,7 +33,7 @@ a {
 }
 
 #links li:not(:last-child) {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.75rem;
 }
 
 @media(prefers-color-scheme: dark) {
